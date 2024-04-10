@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://junnielle-violanda.onrender.com/sitemap.xml

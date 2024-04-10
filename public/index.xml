@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junnielle Violanda</title>
+    <link>https://junnielle-violanda.onrender.com/</link>
+    <description>Recent content on Junnielle Violanda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Junnielle Violanda</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://junnielle-violanda.onrender.com/posts/1st/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/posts/1st/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/posts/1st/feature-1.jfif" />
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://junnielle-violanda.onrender.com/posts/2nd/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/posts/2nd/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/posts/2nd/feature-2.jfif" />
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://junnielle-violanda.onrender.com/posts/3rd/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/posts/3rd/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/posts/3rd/feature-3.jfif" />
+    </item>
+    
+  </channel>
+</rss>
