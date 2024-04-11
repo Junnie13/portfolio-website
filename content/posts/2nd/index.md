@@ -1,9 +1,9 @@
 ---
-title: "My first post"
+title: "My second post"
 date: 2023-08-14
 draft: false
-summary: "This is my first post on my site"
-tags: ["space"]
+summary: "This is my second post on my site"
+tags: ["space", "galaxy"]
 ---
 
 ## A sub-title
