@@ -119,13 +119,13 @@ defaultBackgroundImage = "logo/plain_square.jfif" # used as default for backgrou
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCdnORpEoRC6yJ9l_JXVP_ZYyST93Qkv7g"
+  authDomain = "portfolio-website-7fa27.firebaseapp.com"
+  projectId = "portfolio-website-7fa27"
+  storageBucket = "portfolio-website-7fa27.appspot.com"
+  messagingSenderId = "532192941342"
+  appId = "1:532192941342:web:477f05ea6d102a1411650f"
+  measurementId = "G-7XM1D71FK4"
 
 [fathomAnalytics]
   # site = "ABC12345"
