@@ -23,8 +23,8 @@ googleAnalytics = "G-435969854"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
-  series = "series"
+  # author = "authors"
+  # series = "series"
 
 [sitemap]
   changefreq = 'daily'

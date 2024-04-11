@@ -11,46 +11,56 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Projects"
+  pageRef = "projects"
   weight = 10
 
 [[main]]
-  name = "Parent"
+  name = "Blogs"
+  pageRef = "blogs"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
-
-[[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
-
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
-  weight = 10
-
-[[subnavigation]]
-  name = "My Awesome Category"
-  pre = "github"
-  pageRef = "categories/awesome"
-  weight = 20
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Certificates"
   weight = 30
+
+[[main]]
+  name = "Recognition"
+  parent = "Certificates"
+  pageRef = "recognition"
+  weight = 30
+
+[[main]]
+  name = "Participation"
+  parent = "Certificates"
+  pageRef = "participation"
+  weight = 30
+
+[[main]]
+  name = "Showcase"
+  pageRef = "showcase"
+  weight = 40
+
+# [[subnavigation]]
+#   name = "An interesting topic"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
+
+# [[subnavigation]]
+#   name = "My Awesome Category"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
+
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 
 # -- Footer Menu --

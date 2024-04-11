@@ -15,7 +15,7 @@ title = "Junnielle Violanda"
 
 [author]
   name = "Junnielle Violanda"
-  image = "logo/plain_square.jfif"
+  image = "logo/cat.jfif"
   headline = "Geographic Information Systems | Data Science"
   bio = "Hello! Welcome to my Personal Webiste!🍔" # not appearing in homepage, appears in articles
   links = [

@@ -21,9 +21,9 @@ disableTextInHeader = false
 defaultBackgroundImage = "logo/plain_square.jfif" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header] # modified
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -37,10 +37,10 @@ defaultBackgroundImage = "logo/plain_square.jfif" # used as default for backgrou
 
 [homepage] # modified
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "logo/plain_square.jfif" # used in: hero, and card
-  showRecent = true
+  homepageImage = "backgrounds/pokemon.gif" # used in: hero, and card
+  showRecent = false
   showRecentItems = 6
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
@@ -53,7 +53,7 @@ defaultBackgroundImage = "logo/plain_square.jfif" # used as default for backgrou
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = false
   showHero = true
   heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -77,10 +77,11 @@ defaultBackgroundImage = "logo/plain_square.jfif" # used as default for backgrou
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
   showSummary = true
+  showComments = true
 
 [list] # modified
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -107,7 +108,7 @@ defaultBackgroundImage = "logo/plain_square.jfif" # used as default for backgrou
   showTableOfContents = false
   cardView = false
 
-[term]
+[term] # what is this, omg?
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
