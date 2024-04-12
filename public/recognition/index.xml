@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recognitions on Junnielle Violanda</title>
+    <link>http://localhost:1313/recognition/</link>
+    <description>Recent content in Recognitions on Junnielle Violanda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Junnielle Violanda</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/recognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hallway of Memories</title>
+      <link>http://localhost:1313/recognition/recognition/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recognition/recognition/</guid>
+      <description>A collection of treasured pictures ✨</description>
+      
+    </item>
+    
+  </channel>
+</rss>

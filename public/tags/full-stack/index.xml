@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full-Stack on Junnielle Violanda🐈‍</title>
+    <link>http://localhost:1313/tags/full-stack/</link>
+    <description>Recent content in Full-Stack on Junnielle Violanda🐈‍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Junnielle Violanda</copyright>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End-to-End Data Engineering 🛠️</title>
+      <link>http://localhost:1313/projects/e2e_data_engg/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/e2e_data_engg/</guid>
+      <description>End-to-End Data Engineering 🛠️</description>
+      
+    </item>
+    
+    <item>
+      <title>Full-Stack Geospatial Project 🛰️</title>
+      <link>http://localhost:1313/projects/e2e_geospatial/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/e2e_geospatial/</guid>
+      <description>Full-Stack Geospatial Project 🛰️</description>
+      
+    </item>
+    
+    <item>
+      <title>Full-Stack NLP Project 🚀</title>
+      <link>http://localhost:1313/projects/e2e_nlp/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/e2e_nlp/</guid>
+      <description>Full-Stack NLP Project 🚀</description>
+      
+    </item>
+    
+  </channel>
+</rss>

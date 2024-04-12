@@ -1,5 +1,5 @@
 ---
-title: "Hallway of Memories"
+title: "Recognition"
 date: 2023-08-14
 draft: false
 summary: "A collection of treasured pictures ✨"

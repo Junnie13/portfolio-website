@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nlp on Junnielle Violanda🐈‍</title>
+    <link>http://localhost:1313/tags/nlp/</link>
+    <description>Recent content in Nlp on Junnielle Violanda🐈‍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Junnielle Violanda</copyright>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full-Stack NLP Project 🚀</title>
+      <link>http://localhost:1313/projects/e2e_nlp/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/e2e_nlp/</guid>
+      <description>Full-Stack NLP Project 🚀</description>
+      
+    </item>
+    
+    <item>
+      <title>Scraped Mobile App Review Analysis 📱🔍</title>
+      <link>http://localhost:1313/projects/mobile_app_reviews/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mobile_app_reviews/</guid>
+      <description>Scraped Mobile App Review Analysis 📱🔍</description>
+      
+    </item>
+    
+  </channel>
+</rss>
