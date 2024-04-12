@@ -37,8 +37,8 @@
   weight = 30
 
 [[main]]
-  name = "Showcase"
-  pageRef = "showcase"
+  name = "Gallery"
+  pageRef = "galleryshow"
   weight = 40
 
 # [[subnavigation]]

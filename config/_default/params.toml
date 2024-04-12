@@ -18,7 +18,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "logo/plain_square.jfif" # used as default for background images 
+defaultBackgroundImage = "logo/cat.jfif" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage] # modified
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "backgrounds/pokemon.gif" # used in: hero, and card
+  homepageImage = "backgrounds/waves.gif" # used in: hero, and card
   showRecent = false
   showRecentItems = 6
   showMoreLink = false

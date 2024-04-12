@@ -3,38 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://junnielle-violanda.onrender.com/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/showcase/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+    <loc>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://junnielle-violanda.onrender.com/blogs/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/blogs/python_dev/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/blogs/python_for_ds_book/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/galleryshow/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/1st/first/</loc>
+    <loc>https://junnielle-violanda.onrender.com/participation/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/2nd/second/</loc>
+    <loc>https://junnielle-violanda.onrender.com/recognition/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/3rd/third/</loc>
+    <loc>https://junnielle-violanda.onrender.com/projects/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/e2e_data_engg/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/fcc_responsive_web_design/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
