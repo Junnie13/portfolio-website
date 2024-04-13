@@ -2,128 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://junnielle-violanda.onrender.com/tags/</link>
     <description>Recent content in Tags on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaboration</title>
+      <link>https://junnielle-violanda.onrender.com/tags/collaboration/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Datacamp</title>
-      <link>http://localhost:1313/tags/datacamp/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://junnielle-violanda.onrender.com/tags/datacamp/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/datacamp/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/datacamp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Etl</title>
-      <link>http://localhost:1313/tags/etl/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Game</title>
+      <link>https://junnielle-violanda.onrender.com/tags/game/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/etl/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Full-Stack</title>
-      <link>http://localhost:1313/tags/full-stack/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/full-stack/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Geospatial</title>
-      <link>http://localhost:1313/tags/geospatial/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/geospatial/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://junnielle-violanda.onrender.com/tags/github/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/github/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Nlp</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>MOOC</title>
+      <link>https://junnielle-violanda.onrender.com/tags/mooc/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/mooc/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Non-Fiction</title>
-      <link>http://localhost:1313/tags/non-fiction/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Personal</title>
+      <link>https://junnielle-violanda.onrender.com/tags/personal/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/non-fiction/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/personal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://junnielle-violanda.onrender.com/tags/python/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Reference</title>
-      <link>http://localhost:1313/tags/reference/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Social Good</title>
+      <link>https://junnielle-violanda.onrender.com/tags/social-good/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/reference/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/social-good/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Scraping</title>
-      <link>http://localhost:1313/tags/scraping/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Statistics</title>
+      <link>https://junnielle-violanda.onrender.com/tags/statistics/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/scraping/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/statistics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Upskill</title>
-      <link>http://localhost:1313/tags/upskill/</link>
+      <link>https://junnielle-violanda.onrender.com/tags/upskill/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/upskill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Etl</title>
+      <link>https://junnielle-violanda.onrender.com/tags/etl/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/upskill/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/etl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Full-Stack</title>
+      <link>https://junnielle-violanda.onrender.com/tags/full-stack/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/full-stack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Geospatial</title>
+      <link>https://junnielle-violanda.onrender.com/tags/geospatial/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/geospatial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>https://junnielle-violanda.onrender.com/tags/nlp/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/nlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>https://junnielle-violanda.onrender.com/tags/reference/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/reference/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scraping</title>
+      <link>https://junnielle-violanda.onrender.com/tags/scraping/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/tags/scraping/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
+      <link>https://junnielle-violanda.onrender.com/tags/space/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/space/</guid>
+      <guid>https://junnielle-violanda.onrender.com/tags/space/</guid>
       <description></description>
       
     </item>

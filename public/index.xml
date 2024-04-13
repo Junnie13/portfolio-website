@@ -2,150 +2,180 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/</link>
+    <link>https://junnielle-violanda.onrender.com/</link>
     <description>Recent content on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Applied Machine Learning and AI for Engineers 🤖</title>
-      <link>http://localhost:1313/blogs/ai_ml_for_engg_book/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/blogs/isl_esl/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/ai_ml_for_engg_book/</guid>
-      <description>Applied Machine Learning and AI for Engineers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/ai_ml_for_engg_book/feature-aiengg.jpg" />
+      <guid>https://junnielle-violanda.onrender.com/blogs/isl_esl/</guid>
+      <description>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/isl_esl/feature-islesl.jpg" />
     </item>
     
     <item>
-      <title>Collection of Mini-Projects 🌟🚀</title>
-      <link>http://localhost:1313/projects/datacamp_project_collection/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Creating a Pokémon Game with HTML Canvas: Gotta Code &#39;Em All! 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/blogs/pokemon/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/datacamp_project_collection/</guid>
-      <description>Collection of Mini-Projects 🌟🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/datacamp_project_collection/feature-collection.jpg" />
+      <guid>https://junnielle-violanda.onrender.com/blogs/pokemon/</guid>
+      <description>Creating a Pokémon Game with HTML Canvas: Gotta Code &amp;lsquo;Em All! 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/pokemon/feature-pokemon.jpg" />
     </item>
     
     <item>
-      <title>End-to-End Data Engineering 🛠️</title>
-      <link>http://localhost:1313/projects/e2e_data_engg/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/blogs/cs50/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/e2e_data_engg/</guid>
-      <description>End-to-End Data Engineering 🛠️</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/e2e_data_engg/feature-dataengg.jpg" />
+      <guid>https://junnielle-violanda.onrender.com/blogs/cs50/</guid>
+      <description>CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/cs50/feature-cs50.jpg" />
     </item>
     
     <item>
-      <title>Full-Stack Geospatial Project 🛰️</title>
-      <link>http://localhost:1313/projects/e2e_geospatial/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Mindfull: Nurturing Mental Well-Being Through Technology 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/mindfull/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/e2e_geospatial/</guid>
-      <description>Full-Stack Geospatial Project 🛰️</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/e2e_geospatial/feature-geospatial.jpg" />
-    </item>
-    
-    <item>
-      <title>Full-Stack NLP Project 🚀</title>
-      <link>http://localhost:1313/projects/e2e_nlp/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/e2e_nlp/</guid>
-      <description>Full-Stack NLP Project 🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/e2e_nlp/feature-nlp.jpg" />
-    </item>
-    
-    <item>
-      <title>Personal Website with Hugo and Blowfish 🚀</title>
-      <link>http://localhost:1313/projects/website_hugo_blowfish/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/website_hugo_blowfish/</guid>
-      <description>Personal Website with Hugo and Blowfish 🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/website_hugo_blowfish/feature-blowfish.jpg" />
+      <guid>https://junnielle-violanda.onrender.com/projects/mindfull/</guid>
+      <description>Mindfull: Nurturing Mental Well-Being Through Technology 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/mindfull/feature-mindfull.jpg" />
     </item>
     
     <item>
       <title>Python Development Journey 🐍</title>
-      <link>http://localhost:1313/blogs/python_dev/</link>
+      <link>https://junnielle-violanda.onrender.com/blogs/python_dev/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/blogs/python_dev/</guid>
+      <description>Python Development Journey</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/python_dev/feature-pythondev.jfif" />
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning and AI for Engineers 🤖</title>
+      <link>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/python_dev/</guid>
-      <description>Python Development Journey</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/python_dev/feature-pythondev.jfif" />
+      <guid>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</guid>
+      <description>Applied Machine Learning and AI for Engineers</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/feature-aiengg.jpg" />
+    </item>
+    
+    <item>
+      <title>Collection of Mini-Projects 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</guid>
+      <description>Collection of Mini-Projects 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/feature-collection.jpg" />
+    </item>
+    
+    <item>
+      <title>End-to-End Data Engineering 🛠️</title>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_data_engg/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_data_engg/</guid>
+      <description>End-to-End Data Engineering 🛠️</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_data_engg/feature-dataengg.jpg" />
+    </item>
+    
+    <item>
+      <title>Full-Stack Geospatial Project 🛰️</title>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</guid>
+      <description>Full-Stack Geospatial Project 🛰️</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_geospatial/feature-geospatial.jpg" />
+    </item>
+    
+    <item>
+      <title>Full-Stack NLP Project 🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</guid>
+      <description>Full-Stack NLP Project 🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_nlp/feature-nlp.jpg" />
+    </item>
+    
+    <item>
+      <title>Personal Website with Hugo and Blowfish 🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/</guid>
+      <description>Personal Website with Hugo and Blowfish 🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/feature-blowfish.jpg" />
     </item>
     
     <item>
       <title>Python for Data Science: A Hands-On Introduction 📕</title>
-      <link>http://localhost:1313/blogs/python_for_ds_book/</link>
+      <link>https://junnielle-violanda.onrender.com/blogs/python_for_ds_book/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/python_for_ds_book/</guid>
+      <guid>https://junnielle-violanda.onrender.com/blogs/python_for_ds_book/</guid>
       <description>Python for Data Science: A Hands-On Introduction</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/python_for_ds_book/feature-pythonfords.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/python_for_ds_book/feature-pythonfords.jpg" />
     </item>
     
     <item>
       <title>Responsive Web Design Certification 🌐</title>
-      <link>http://localhost:1313/projects/fcc_responsive_web_design/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/fcc_responsive_web_design/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/fcc_responsive_web_design/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/fcc_responsive_web_design/</guid>
       <description>Responsive Web Design Certification</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fcc_responsive_web_design/feature-web.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/fcc_responsive_web_design/feature-web.jpg" />
     </item>
     
     <item>
       <title>Scraped Mobile App Review Analysis 📱🔍</title>
-      <link>http://localhost:1313/projects/mobile_app_reviews/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/mobile_app_reviews/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</guid>
       <description>Scraped Mobile App Review Analysis 📱🔍</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mobile_app_reviews/feature-mobile.jpg" />
-    </item>
-    
-    <item>
-      <title>The Almanack of Naval Ravikant 📖</title>
-      <link>http://localhost:1313/blogs/almanack_naval_book/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blogs/almanack_naval_book/</guid>
-      <description>The Almanack of Naval Ravikant</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/almanack_naval_book/feature-almanack.jfif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/feature-mobile.jpg" />
     </item>
     
     <item>
       <title>Hallway of Memories</title>
-      <link>http://localhost:1313/galleryshow/</link>
+      <link>https://junnielle-violanda.onrender.com/galleryshow/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/galleryshow/</guid>
+      <guid>https://junnielle-violanda.onrender.com/galleryshow/</guid>
       <description>A collection of treasured pictures ✨</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/galleryshow/feature-gallery.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/galleryshow/feature-gallery.jpg" />
     </item>
     
     <item>
       <title>Participation</title>
-      <link>http://localhost:1313/participation/</link>
+      <link>https://junnielle-violanda.onrender.com/participation/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/participation/</guid>
+      <guid>https://junnielle-violanda.onrender.com/participation/</guid>
       <description>A collection of treasured pictures ✨</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/participation/feature-participation.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/participation/feature-participation.jpg" />
     </item>
     
     <item>
       <title>Recognition</title>
-      <link>http://localhost:1313/recognition/</link>
+      <link>https://junnielle-violanda.onrender.com/recognition/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recognition/</guid>
+      <guid>https://junnielle-violanda.onrender.com/recognition/</guid>
       <description>A collection of treasured pictures ✨</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recognition/feature-recognition.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/recognition/feature-recognition.jpg" />
     </item>
     
   </channel>

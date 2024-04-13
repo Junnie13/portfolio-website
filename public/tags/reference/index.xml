@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reference on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/tags/reference/</link>
+    <link>https://junnielle-violanda.onrender.com/tags/reference/</link>
     <description>Recent content in Reference on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/reference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applied Machine Learning and AI for Engineers 🤖</title>
-      <link>http://localhost:1313/blogs/ai_ml_for_engg_book/</link>
+      <link>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/ai_ml_for_engg_book/</guid>
+      <guid>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</guid>
       <description>Applied Machine Learning and AI for Engineers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/ai_ml_for_engg_book/feature-aiengg.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/feature-aiengg.jpg" />
     </item>
     
   </channel>

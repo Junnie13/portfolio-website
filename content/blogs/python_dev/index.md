@@ -1,6 +1,6 @@
 ---
 title: "Python Development Journey 🐍"
-date: 2024-04-12
+date: 2024-04-13
 draft: false
 summary: "Python Development Journey"
 tags: ["upskill", "python", "datacamp", "github"]

@@ -2,60 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/categories/data-science/</link>
+    <link>https://junnielle-violanda.onrender.com/categories/data-science/</link>
     <description>Recent content in Data Science on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Collection of Mini-Projects 🌟🚀</title>
-      <link>http://localhost:1313/projects/datacamp_project_collection/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/blogs/cs50/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/datacamp_project_collection/</guid>
-      <description>Collection of Mini-Projects 🌟🚀</description>
-      
-    </item>
-    
-    <item>
-      <title>Full-Stack Geospatial Project 🛰️</title>
-      <link>http://localhost:1313/projects/e2e_geospatial/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/e2e_geospatial/</guid>
-      <description>Full-Stack Geospatial Project 🛰️</description>
-      
-    </item>
-    
-    <item>
-      <title>Full-Stack NLP Project 🚀</title>
-      <link>http://localhost:1313/projects/e2e_nlp/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/e2e_nlp/</guid>
-      <description>Full-Stack NLP Project 🚀</description>
-      
+      <guid>https://junnielle-violanda.onrender.com/blogs/cs50/</guid>
+      <description>CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/cs50/feature-cs50.jpg" />
     </item>
     
     <item>
       <title>Python Development Journey 🐍</title>
-      <link>http://localhost:1313/blogs/python_dev/</link>
+      <link>https://junnielle-violanda.onrender.com/blogs/python_dev/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/blogs/python_dev/</guid>
+      <description>Python Development Journey</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/python_dev/feature-pythondev.jfif" />
+    </item>
+    
+    <item>
+      <title>Collection of Mini-Projects 🌟🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/python_dev/</guid>
-      <description>Python Development Journey</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/python_dev/feature-pythondev.jfif" />
+      <guid>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</guid>
+      <description>Collection of Mini-Projects 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/feature-collection.jpg" />
+    </item>
+    
+    <item>
+      <title>Full-Stack Geospatial Project 🛰️</title>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</guid>
+      <description>Full-Stack Geospatial Project 🛰️</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_geospatial/feature-geospatial.jpg" />
+    </item>
+    
+    <item>
+      <title>Full-Stack NLP Project 🚀</title>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</guid>
+      <description>Full-Stack NLP Project 🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_nlp/feature-nlp.jpg" />
     </item>
     
     <item>
       <title>Scraped Mobile App Review Analysis 📱🔍</title>
-      <link>http://localhost:1313/projects/mobile_app_reviews/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/mobile_app_reviews/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</guid>
       <description>Scraped Mobile App Review Analysis 📱🔍</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/feature-mobile.jpg" />
     </item>
     
   </channel>

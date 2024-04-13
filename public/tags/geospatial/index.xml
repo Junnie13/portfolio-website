@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geospatial on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/tags/geospatial/</link>
+    <link>https://junnielle-violanda.onrender.com/tags/geospatial/</link>
     <description>Recent content in Geospatial on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/geospatial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/geospatial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Full-Stack Geospatial Project 🛰️</title>
-      <link>http://localhost:1313/projects/e2e_geospatial/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/e2e_geospatial/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</guid>
       <description>Full-Stack Geospatial Project 🛰️</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_geospatial/feature-geospatial.jpg" />
     </item>
     
   </channel>
