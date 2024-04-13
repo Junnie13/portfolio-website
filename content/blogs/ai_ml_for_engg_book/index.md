@@ -1,6 +1,6 @@
 ---
 title: "Applied Machine Learning and AI for Engineers 🤖"
-date: 2024-04-12
+date: 2023-04-12
 draft: false
 summary: "Applied Machine Learning and AI for Engineers"
 tags: ["upskill", "reference"]

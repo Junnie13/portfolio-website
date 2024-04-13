@@ -1,6 +1,6 @@
 ---
 title: "Full-Stack NLP Project 🚀"
-date: 2024-04-12
+date: 2023-04-12
 draft: false
 summary: "Full-Stack NLP Project 🚀"
 tags: ["upskill", "full-stack", "nlp"]

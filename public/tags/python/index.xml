@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Junnielle Violanda🐈‍</title>
-    <link>https://junnielle-violanda.onrender.com/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</title>
-      <link>https://junnielle-violanda.onrender.com/blogs/isl_esl/</link>
+      <link>http://localhost:1313/blogs/isl_esl/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://junnielle-violanda.onrender.com/blogs/isl_esl/</guid>
+      <guid>http://localhost:1313/blogs/isl_esl/</guid>
       <description>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/isl_esl/feature-islesl.jpg" />
-    </item>
-    
-    <item>
-      <title>Creating a Pokémon Game with HTML Canvas: Gotta Code &#39;Em All! 🌟🚀</title>
-      <link>https://junnielle-violanda.onrender.com/blogs/pokemon/</link>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://junnielle-violanda.onrender.com/blogs/pokemon/</guid>
-      <description>Creating a Pokémon Game with HTML Canvas: Gotta Code &amp;lsquo;Em All! 🌟🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/pokemon/feature-pokemon.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/isl_esl/feature-islesl.jpg" />
     </item>
     
     <item>
       <title>Python Development Journey 🐍</title>
-      <link>https://junnielle-violanda.onrender.com/blogs/python_dev/</link>
+      <link>http://localhost:1313/blogs/python_dev/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://junnielle-violanda.onrender.com/blogs/python_dev/</guid>
+      <guid>http://localhost:1313/blogs/python_dev/</guid>
       <description>Python Development Journey</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/python_dev/feature-pythondev.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/python_dev/feature-pythondev.jpg" />
+    </item>
+    
+    <item>
+      <title>Creating a Pokémon Game with HTML Canvas: Gotta Code &#39;Em All! 🌟🚀</title>
+      <link>http://localhost:1313/blogs/pokemon/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/pokemon/</guid>
+      <description>Creating a Pokémon Game with HTML Canvas: Gotta Code &amp;lsquo;Em All! 🌟🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/pokemon/feature-pokemon.jpg" />
     </item>
     
   </channel>

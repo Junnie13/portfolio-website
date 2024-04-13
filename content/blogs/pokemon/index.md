@@ -1,6 +1,6 @@
 ---
 title: "Creating a Pokémon Game with HTML Canvas: Gotta Code 'Em All! 🌟🚀"
-date: 2024-04-13
+date: 2022-04-13
 draft: false
 summary: "Creating a Pokémon Game with HTML Canvas: Gotta Code 'Em All! 🌟🚀"
 tags: ["upskill", "python", "game"]

@@ -1,6 +1,6 @@
 ---
 title: "End-to-End Data Engineering 🛠️"
-date: 2024-04-12
+date: 2023-04-12
 draft: false
 summary: "End-to-End Data Engineering 🛠️"
 tags: ["upskill", "full-stack", "etl"]

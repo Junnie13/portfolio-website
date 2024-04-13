@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/isl_esl/</loc>
+    <loc>http://localhost:1313/blogs/isl_esl/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/pokemon/</loc>
+    <loc>http://localhost:1313/blogs/cs50/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/cs50/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/</loc>
+    <loc>http://localhost:1313/projects/mindfull/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/mindfull/</loc>
+    <loc>http://localhost:1313/blogs/python_dev/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/python_dev/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/ai_ml_for_engg_book/</loc>
+    <loc>http://localhost:1313/projects/datacamp_project_collection/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</loc>
+    <loc>http://localhost:1313/projects/e2e_geospatial/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/e2e_data_engg/</loc>
+    <loc>http://localhost:1313/projects/website_hugo_blowfish/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/e2e_geospatial/</loc>
+    <loc>http://localhost:1313/blogs/python_for_ds_book/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</loc>
+    <loc>http://localhost:1313/projects/fcc_responsive_web_design/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/</loc>
+    <loc>http://localhost:1313/projects/mobile_app_reviews/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/python_for_ds_book/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/fcc_responsive_web_design/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/galleryshow/</loc>
+    <loc>http://localhost:1313/galleryshow/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/participation/</loc>
+    <loc>http://localhost:1313/participation/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://junnielle-violanda.onrender.com/recognition/</loc>
+    <loc>http://localhost:1313/recognition/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blogs/almanack_naval_book/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blogs/ai_ml_for_engg_book/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/e2e_data_engg/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/e2e_nlp/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blogs/pokemon/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

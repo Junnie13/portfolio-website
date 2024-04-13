@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nlp on Junnielle Violanda🐈‍</title>
-    <link>https://junnielle-violanda.onrender.com/tags/nlp/</link>
+    <link>http://localhost:1313/tags/nlp/</link>
     <description>Recent content in Nlp on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Full-Stack NLP Project 🚀</title>
-      <link>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</link>
+      <title>Scraped Mobile App Review Analysis 📱🔍</title>
+      <link>http://localhost:1313/projects/mobile_app_reviews/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://junnielle-violanda.onrender.com/projects/e2e_nlp/</guid>
-      <description>Full-Stack NLP Project 🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/e2e_nlp/feature-nlp.jpg" />
+      <guid>http://localhost:1313/projects/mobile_app_reviews/</guid>
+      <description>Scraped Mobile App Review Analysis 📱🔍</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/mobile_app_reviews/feature-mobile.jpg" />
     </item>
     
     <item>
-      <title>Scraped Mobile App Review Analysis 📱🔍</title>
-      <link>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <title>Full-Stack NLP Project 🚀</title>
+      <link>http://localhost:1313/projects/e2e_nlp/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/</guid>
-      <description>Scraped Mobile App Review Analysis 📱🔍</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/mobile_app_reviews/feature-mobile.jpg" />
+      <guid>http://localhost:1313/projects/e2e_nlp/</guid>
+      <description>Full-Stack NLP Project 🚀</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/e2e_nlp/feature-nlp.jpg" />
     </item>
     
   </channel>
