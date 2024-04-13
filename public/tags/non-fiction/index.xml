@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Non-Fiction on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/tags/non-fiction/</link>
+    <link>https://junnielle-violanda.onrender.com/tags/non-fiction/</link>
     <description>Recent content in Non-Fiction on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/non-fiction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/non-fiction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Almanack of Naval Ravikant 📖</title>
-      <link>http://localhost:1313/blogs/almanack_naval_book/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/almanack_naval_book/</guid>
+      <guid>https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/</guid>
       <description>The Almanack of Naval Ravikant</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/almanack_naval_book/feature-almanack.jfif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/feature-almanack.jpg" />
     </item>
     
   </channel>

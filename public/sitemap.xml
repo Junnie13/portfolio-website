@@ -3,19 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://junnielle-violanda.onrender.com/blogs/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://junnielle-violanda.onrender.com/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://junnielle-violanda.onrender.com/blogs/isl_esl/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/blogs/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,6 +27,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://junnielle-violanda.onrender.com/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://junnielle-violanda.onrender.com/projects/mindfull/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -40,6 +40,12 @@
   </url>
   <url>
     <loc>https://junnielle-violanda.onrender.com/blogs/python_dev/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://junnielle-violanda.onrender.com/blogs/almanack_naval_book/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

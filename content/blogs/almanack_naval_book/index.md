@@ -1,6 +1,6 @@
 ---
 title: "The Almanack of Naval Ravikant 📖"
-date: 2024-04-14
+date: 2024-04-13
 draft: false
 summary: "The Almanack of Naval Ravikant"
 tags: ["non-fiction"]
