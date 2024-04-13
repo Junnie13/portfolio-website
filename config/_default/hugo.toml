@@ -15,8 +15,8 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-7XM1D71FK4" # from mobile app
-googleAnalytics = "G-435969854" # from web app
+googleAnalytics = "G-7XM1D71FK4" # from mobile app
+# googleAnalytics = "G-435969854" # from web app
 
 [imaging]
   anchor = 'Center'
