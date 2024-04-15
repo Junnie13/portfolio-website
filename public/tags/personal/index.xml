@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/tags/personal/</link>
+    <link>https://junnielle-violanda.onrender.com/tags/personal/</link>
     <description>Recent content in Personal on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</title>
-      <link>http://localhost:1313/blogs/isl_esl/</link>
+      <link>https://junnielle-violanda.onrender.com/blogs/isl_esl/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blogs/isl_esl/</guid>
+      <guid>https://junnielle-violanda.onrender.com/blogs/isl_esl/</guid>
       <description>An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/isl_esl/feature-islesl.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/blogs/isl_esl/feature-islesl.jpg" />
     </item>
     
     <item>
       <title>Collection of Mini-Projects 🌟🚀</title>
-      <link>http://localhost:1313/projects/datacamp_project_collection/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/datacamp_project_collection/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/</guid>
       <description>Collection of Mini-Projects 🌟🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/datacamp_project_collection/feature-collection.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/datacamp_project_collection/feature-collection.jpg" />
     </item>
     
     <item>
       <title>Personal Website with Hugo and Blowfish 🚀</title>
-      <link>http://localhost:1313/projects/website_hugo_blowfish/</link>
+      <link>https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/website_hugo_blowfish/</guid>
+      <guid>https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/</guid>
       <description>Personal Website with Hugo and Blowfish 🚀</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/website_hugo_blowfish/feature-blowfish.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/projects/website_hugo_blowfish/feature-blowfish.jpg" />
     </item>
     
   </channel>
