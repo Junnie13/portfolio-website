@@ -3,7 +3,7 @@ title: "CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀"
 date: 2024-04-13
 draft: false
 summary: "CS50: Unleashing the Magic of Computer Science at Harvard 🌟🚀"
-tags: ["upskill", "MOOC"]
+tags: ["upskill", "MOOC", "ongoing"]
 categories: ["data science"]
 ---
 

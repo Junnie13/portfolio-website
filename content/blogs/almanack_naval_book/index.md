@@ -3,7 +3,7 @@ title: "The Almanack of Naval Ravikant 📖"
 date: 2023-04-13
 draft: false
 summary: "The Almanack of Naval Ravikant"
-tags: ["non-fiction"]
+tags: ["non-fiction", "ongoing"]
 categories: ["books"]
 ---
 

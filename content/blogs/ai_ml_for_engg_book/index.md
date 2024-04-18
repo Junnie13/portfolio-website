@@ -3,7 +3,7 @@ title: "Applied Machine Learning and AI for Engineers 🤖"
 date: 2023-04-12
 draft: false
 summary: "Applied Machine Learning and AI for Engineers"
-tags: ["upskill", "reference"]
+tags: ["upskill", "reference", "ongoing"]
 categories: ["books"]
 ---
 

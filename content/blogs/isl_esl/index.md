@@ -3,7 +3,7 @@ title: "An Introduction to Statistical Learning: A Gateway to Data Magic 🌟�
 date: 2024-04-13
 draft: false
 summary: "An Introduction to Statistical Learning: A Gateway to Data Magic 🌟🚀"
-tags: ["upskill", "python", "statistics", "personal"]
+tags: ["upskill", "python", "statistics", "personal", "completed"]
 categories: ["books"]
 ---
 
