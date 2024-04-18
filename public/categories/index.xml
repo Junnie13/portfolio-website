@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://junnielle-violanda.onrender.com/categories/</link>
     <description>Recent content in Categories on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/categories/books/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/books/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/books/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/books/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/categories/data-science/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/data-science/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/data-science/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/data-science/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>http://localhost:1313/categories/software-development/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/software-development/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/software-development/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/software-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/categories/web-development/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/web-development/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/web-development/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/web-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Certificates</title>
-      <link>http://localhost:1313/categories/certificates/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/certificates/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/certificates/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/certificates/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>http://localhost:1313/categories/gallery/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/gallery/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/gallery/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/gallery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Engineering</title>
-      <link>http://localhost:1313/categories/data-engineering/</link>
+      <link>https://junnielle-violanda.onrender.com/categories/data-engineering/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/data-engineering/</guid>
+      <guid>https://junnielle-violanda.onrender.com/categories/data-engineering/</guid>
       <description></description>
       
     </item>

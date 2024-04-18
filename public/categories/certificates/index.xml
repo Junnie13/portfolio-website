@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificates on Junnielle Violanda🐈‍</title>
-    <link>http://localhost:1313/categories/certificates/</link>
+    <link>https://junnielle-violanda.onrender.com/categories/certificates/</link>
     <description>Recent content in Certificates on Junnielle Violanda🐈‍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Junnielle Violanda</copyright>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junnielle-violanda.onrender.com/categories/certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Participation</title>
-      <link>http://localhost:1313/participation/</link>
+      <link>https://junnielle-violanda.onrender.com/participation/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/participation/</guid>
+      <guid>https://junnielle-violanda.onrender.com/participation/</guid>
       <description>A collection of treasured pictures ✨</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/participation/feature-participation.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/participation/feature-participation.jpg" />
     </item>
     
     <item>
       <title>Recognition</title>
-      <link>http://localhost:1313/recognition/</link>
+      <link>https://junnielle-violanda.onrender.com/recognition/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/recognition/</guid>
+      <guid>https://junnielle-violanda.onrender.com/recognition/</guid>
       <description>A collection of treasured pictures ✨</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/recognition/feature-recognition.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://junnielle-violanda.onrender.com/recognition/feature-recognition.jpg" />
     </item>
     
   </channel>
